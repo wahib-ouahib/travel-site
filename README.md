@@ -1,2 +1,2 @@
 # travel-site
-:unamused: UI for travel booking and calendar
+:unamused: UI for travel booking & calendar
